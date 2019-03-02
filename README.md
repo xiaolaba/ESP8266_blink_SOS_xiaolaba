@@ -2,6 +2,7 @@
 burn in test for ESP8266, builtin LED will be flashing SOS
 
 https://youtu.be/kLBpjeUCMfE
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/kLBpjeUCMfE)
 [![Alt text][https://youtu.be/kLBpjeUCMfE/0.jpg](https://youtu.be/kLBpjeUCMfE)
 
 
